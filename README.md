@@ -10,3 +10,4 @@
 
 网上资料总结：
 1. 一文看懂风控模型：https://cloud.tencent.com/developer/article/2095436
+2. 度小满风控模型：https://www.secrss.com/articles/27699
